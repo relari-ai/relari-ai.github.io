@@ -29,9 +29,9 @@ export default function Hero() {
 
           {/* Section header */}
           <div className="text-center">
-            <h1 className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4" data-aos="zoom-y-out">Reliable <span className="bg-clip-text text-transparent relari-gradient">AI colleague</span> for financial services</h1>
+            <h1 className="text-5xl md:text-6xl leading-tighter tracking-tighter md:mt-24 mb-4" data-aos="zoom-y-out"><span className="bg-clip-text text-transparent relari-gradient">Quality deliverables</span><br></br>10x faster</h1>
             <div className="mx-auto">
-              <p className="text-2xl md:text-2xl text-gray-600 mb-8" data-aos="zoom-y-out" data-aos-delay="150">Deliver quality materials and credible insights 10x faster</p>
+              <p className="text-2xl md:text-2xl font-light text-gray-600 mb-8" data-aos="zoom-y-out" data-aos-delay="150">Trusted AI teammate for financial services</p>
               <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">
                 <div>
                   <a className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://e193xb1mroy.typeform.com/to/veMUvQNR">Join waitlist</a>

@@ -26,35 +26,35 @@ export default function Testimonials() {
         <div className="py-12 md:py-20">
 
           {/* Section header */}
-          <div className="mx-auto text-center pb-12 md:pb-8">
-            <h2 className="h4 mb-4">Backed by</h2>
+          <div className="mx-auto text-center pt-4 pb-6 md:pb-2">
+            <h2 className="h5 mb-2 font-light">Backed by</h2>
           </div>
 
           {/* Items */}
-          <div className="max-w-sm md:max-w-4xl mx-auto grid gap-2 grid-cols-3 md:grid-cols-3">
+          <div className="max-w-sm md:max-w-4xl mx-auto grid gap-6 grid-cols-3 md:grid-cols-3">
 
             {/* Item */}
-            {/* <div className="flex items-center justify-center py-2 col-span-2 md:col-auto grayscale opacity-60">
+            {/* <div className="flex flex-col  items-center justify-center py-2 col-span-2 md:col-auto grayscale opacity-60">
               <img src="images/MIT_logo.svg"  width="125" alt="MIT"/>
             </div> */}
 
             {/* Item */}
-            {/* <div className="flex items-center justify-center py-2 col-span-2 md:col-auto grayscale opacity-60">
+            {/* <div className="flex flex-col  items-center justify-center py-2 col-span-2 md:col-auto grayscale opacity-60">
               <img src="images/pillar-logo.svg"  width="125" alt="Pillar VC"/>
             </div> */}
 
             {/* Item */}
-            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto grayscale opacity-60">
+            <div className="flex flex-col items-center justify-center py-2 col-span-3 sm:col-span-1 grayscale opacity-60">
               <img src="images/sandbox-logo.png"  width="125" alt="MIT Sandbox"/>
             </div>
 
             {/* Item */}
-            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto grayscale opacity-60">
+            <div className="flex flex-col items-center justify-center py-2 col-span-3 sm:col-span-1 grayscale opacity-60">
               <img src="images/hilab-logo.png"  width="125" alt="Harvard Innovation Lab"/>
             </div>
 
             {/* Item */}
-            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto col-start-2 col-end-4 grayscale opacity-60">
+            <div className="flex flex-col items-center justify-center py-2 col-span-3 sm:col-span-1 grayscale opacity-60">
               <img src="images/aic-logo.png"  width="125" alt="AI Collective"/> 
             </div>
 

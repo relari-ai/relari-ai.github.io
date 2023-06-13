@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Relari.ai',
-  description: 'Reliable AI colleague',
+  description: 'Reliable AI for financial services',
 }
 
 import Hero from '@/components/hero'
