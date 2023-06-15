@@ -12,10 +12,10 @@ export default function Typeform() {
             {/* CTA content */}
             <div className="text-center md:text-left lg:max-w-xl">
               <h3 className="h3 font-light text-white">Want to learn more?</h3>
-              <p className="text-gray-300 font-light text-lg pb-12">Join waitlist to get early access to our product.</p>
+              <p className="text-gray-300 font-light text-lg pb-12">Join waitlist for early access to our product.</p>
             </div>
-            <Widget id="veMUvQNR" style={{ height: '500px', width: '100%' }} />
-            <p className="text-sm text-gray-400 mt-3">No spam, we promise.</p>
+            <Widget id="veMUvQNR" style={{ height: '600px', width: '100%' }} />
+            <p className="text-sm text-gray-400 mt-3">Takes 30 sec. No spam, we promise.</p>
           </div>
         </div>
       </div>
