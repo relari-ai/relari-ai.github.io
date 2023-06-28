@@ -11,6 +11,12 @@ export default function Footer() {
           {/* Copyrights note */}
           <div className="text-sm text-gray-600 mr-4">&copy; 2023 Relari, inc. All rights reserved.</div>
 
+          {/* Legal links */}
+          <div className="text-sm text-gray-600">
+            <a href="https://docs.google.com/document/d/e/2PACX-1vQ9N1bHccZHO3pdp2Pr2jNKGpCp2UmJKFh0bClXAtGvspudECCrsRC9DCzXsYdfRCDYnZ3ZCHeQu-sU/pub" className="underline mr-8">Terms of Use</a>
+            <a href="https://docs.google.com/document/d/e/2PACX-1vT6600pn6GcrGWbPLiC3jcD19medb5nPga5_19dZOesoU096kGhyuVM3DeqZnNBhWqpFCOhaq5mO_L2/pub" className="underline">Privacy Policy</a>
+          </div>
+
         </div>
 
       </div>
